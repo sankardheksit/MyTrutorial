@@ -131,6 +131,9 @@ class ViewController: UIViewController,UITableViewDelegate, UITableViewDataSourc
     func newfunc(){
         print("this is my func")
     }
+    func somefunc(){
+        print("harsha")
+    }
 
     
     override func didReceiveMemoryWarning() {
