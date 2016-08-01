@@ -126,8 +126,10 @@ class ViewController: UIViewController,UITableViewDelegate, UITableViewDataSourc
         }
         task.resume()
         
-        
-        
+    }
+    
+    func newfunc(){
+        print("this is my func")
     }
 
     
