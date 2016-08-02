@@ -135,7 +135,9 @@ class ViewController: UIViewController,UITableViewDelegate, UITableViewDataSourc
         print("harsha")
     }
 
-    
+    func myfunc(){
+        print("new function")
+    }
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
