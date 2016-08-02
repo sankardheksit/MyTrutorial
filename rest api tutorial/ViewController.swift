@@ -139,6 +139,9 @@ class ViewController: UIViewController,UITableViewDelegate, UITableViewDataSourc
         print("line 139")
     }
 
+    func myfunc(){
+        print("new function")
+    }
     
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
