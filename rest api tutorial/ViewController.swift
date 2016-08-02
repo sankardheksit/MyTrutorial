@@ -132,7 +132,7 @@ class ViewController: UIViewController,UITableViewDelegate, UITableViewDataSourc
         print("this is my func")
     }
     func somefunc(){
-        print("harsha")
+        print("harshamychange")
     }
     
     func modifyfunc(){
